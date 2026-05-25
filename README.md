@@ -1,2 +1,12 @@
 # ai-text-summarizer
-summarizes any text entered by the user using api
+
+A simple Python project using OpenAI API to summarize text.
+
+->Features
+- User input summarization
+- Uses OpenAI API
+- Simple command-line interface
+
+->Tech Stack
+- Python
+- OpenAI API
